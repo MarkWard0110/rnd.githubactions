@@ -1,5 +1,5 @@
-name: noop-rancher
-run-name: ${{ github.actor }} noop-rancher
+name: noop-centraltech
+run-name: ${{ github.actor }} noop-centraltech
 
 
 on:
